@@ -1,0 +1,1 @@
+Desenvolver um algoritmo que leia um número inteiro e verifique se o número é divisível por 5 e 3 simultaneamente.
