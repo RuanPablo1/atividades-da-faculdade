@@ -1,0 +1,5 @@
+Faça um programa que leia o nome do aluno, matrícula, disciplina e 4 notas. Armazene essas notas e calcule a média das mesmas, imprimindo na tela o resultado final do aluno de acordo com as seguintes condições.
+
+Média maior ou igual a 6,0 : Aluno Aprovado;
+Média maior ou igual a 5 e menor que 6: Aluno de Recuperação;
+Média menor que 5: Reprovado. 
