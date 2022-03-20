@@ -1,0 +1,1 @@
+Fazer um programa que preenche um array de 10 posições contendo as notas dos alunos de uma turma. Em seguida o programa deve imprimir a média aritmética dos 10 alunos.

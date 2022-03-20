@@ -1,0 +1,1 @@
+Construa um programa que preenche um vetor de inteiros de 100 números, colocando 0 nas posições par e 1 ímpar.

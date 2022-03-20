@@ -1,0 +1,3 @@
+Construa um programa que leia e guarde os elementos em um vetor de 20 posições. Em seguida o algoritmo ordena os elementos do vetor de acordo com a seguinte estratégia:
+
+- Selecione o elemento do vetor que guarda o menor e o maior valor.
