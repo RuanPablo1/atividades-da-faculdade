@@ -12,7 +12,8 @@
 - Condicionais if/else;
 - Operações matemáticas;
 - Sistemas de repetição;
-- Menus utilizando switch/case.
+- Menus utilizando switch/case;
+- Vetores e matrizes.
 
 
 ##### **Linguagens de Programação II**
@@ -20,3 +21,4 @@
 - Evolução na linguagem C++;
 - Migração/introdução ao C#;
 - Aprofundação na linguagem C#.
+- Introdução ao Python
