@@ -1,0 +1,3 @@
+Dada uma matriz 5x5, elabore um algoritmo que escreva:
+- A diagonal principal
+- A diagonal secundária

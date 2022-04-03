@@ -37,7 +37,7 @@ printf("\nO resultado e: \n\n");
 for(L = 0; L < 3; L++){
 	for(C = 0; C < 5; C++){
 		resultado[L][C] = matriz1[L][C] + matriz2[L][C];
-		printf("%d", resultado[L][C]);
+		printf("%d|", resultado[L][C]);
 	}
 	printf("\n");
 }
