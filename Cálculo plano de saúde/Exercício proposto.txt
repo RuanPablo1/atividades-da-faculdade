@@ -1,0 +1,5 @@
+Faça um programa que determina a alíquota a ser descontada do funcionário referente ao plano de saúde.
+Taxa referente ao funcionário: 3% 
+Taxa referente à dependentes maiores de 18 e menores de 24: 2,5%
+Taxa referente à dependentes menores 18: 1,5%
+O programa deve pedir ao usuário os dados acerca dos familiares, e o salário para que seja calculado o valor a ser descontado.
