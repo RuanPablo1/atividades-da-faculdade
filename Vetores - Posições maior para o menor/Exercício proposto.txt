@@ -1,0 +1,1 @@
+Faça um programa que armazene em um vetor,  5 valores e imprima ele na ordem crescente. 
